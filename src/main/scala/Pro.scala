@@ -1,4 +1,3 @@
-import org.apache.hadoop.hive.ql.exec.spark.session.SparkSession
 import org.apache.spark._
 import org.apache.spark.SparkContext
 import org.apache.spark.sql.{DataFrame, _}
